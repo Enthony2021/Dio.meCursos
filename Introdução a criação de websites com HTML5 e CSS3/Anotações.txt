@@ -1,0 +1,11 @@
+Header :Para cabeçalhos, dentro colocamos os h1, h2...
+
+section :para criar uma secção específica de conteúdo dentro
+	 da página.
+
+article :onde vai o conteúdo junto com um cabeçalho (header)
+	 indicando o conteúdo.
+
+footer :Roda-pé da página.
+
+link para E-mail: <a href:mailto:...> </a> 
