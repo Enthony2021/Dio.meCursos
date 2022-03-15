@@ -1,0 +1,65 @@
+Backbone = Espinha Dorsal :Gerenciam o tráfico da internet
+Local host : 127.0.0.1
+No cmd: ping <site>
+
+TCP = Protocolo de Controle de Transmissão
+IP = Protocolo de Internet
+
+4 Camadas - Física(Placa de Rede), Rede(IP), Transporte(TCP, UDP), Aplicação(FTP, SMTP, HTTP) 
+UDP - Para Livestream
+TCP - Comunica dois dispositivos, Handshare, os dados chegam em ordem.
+
+
+Portas
+20: FTP - Para envio de arquivos
+22: SSH - Conexão entre dois dispositivos
+25: SMTP - Envio de e-mails
+53: DNS - Tradutor de nome para IP
+80: HTTP - Requisição Simples da Internet
+443: HTTPS - Requisição Segura
+
+Modem - Modulator-demodulator
+Roteador - Distribui Internet (Burro)
+Switch - Distribui Internet (Inteligente)
+
+portas usadas pelo gmail: 25, 465, 587
+portas usadas pelo MySQL: 3306
+portas usadas pelo Apache: 443
+
+Dados Móveis
+SMS - transmissão de mensagens de texto
+MMS - Transmissão de Mensagens Multimídias
+2G - GSM - Global System for Mobile Communication
+GPRS - EDGE - 3G - 4G - 5G
+
+Wi-Fi
+. Sinal
+IEEE 
+. Segurança
+WEP
+WPA: Chave troca periodicamente
+WPA2: +Segurança +Processamento
+
+Bluetooth
+Conexão ponto-a-ponto
+
+Browser
+plug-ins ou add-ons :Ajudam na navegação
+Cache :Conteúdo guardado, no browser, de algum site
+Cookies :rastro dos sites para mostrar propagandas
+
+Web-Server
+Estático - Servidor Físico
+Dinâmico - Softwares instalados no servidor físico
+Arquivos - Aplicações - Banco de dados
+
+Web-Service
+Interface para fazer consultas no banco de dados de forma segura.
+
+LPs (Linguagens de Programação)
+MVC e MVP - Arquitetura de Softwares
+SSL - Camada de Segurança
+UI - User Interface
+UX - User Experience
+WYSWYG - What You See What You Get
+
